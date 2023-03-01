@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Nithish124/generatora-app/static/css/main.101778df.css",
+    "main.js": "/Nithish124/generatora-app/static/js/main.8bce40d5.js",
+    "static/js/787.3d5e1fcb.chunk.js": "/Nithish124/generatora-app/static/js/787.3d5e1fcb.chunk.js",
+    "index.html": "/Nithish124/generatora-app/index.html",
+    "main.101778df.css.map": "/Nithish124/generatora-app/static/css/main.101778df.css.map",
+    "main.8bce40d5.js.map": "/Nithish124/generatora-app/static/js/main.8bce40d5.js.map",
+    "787.3d5e1fcb.chunk.js.map": "/Nithish124/generatora-app/static/js/787.3d5e1fcb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.101778df.css",
+    "static/js/main.8bce40d5.js"
+  ]
+}
